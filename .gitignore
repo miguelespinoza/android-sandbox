@@ -66,6 +66,7 @@ gen-external-apklibs
 .idea/uiDesigner.xml
 
 # Gradle:
+*.gradle.properties
 .idea/gradle.xml
 .idea/libraries
 
